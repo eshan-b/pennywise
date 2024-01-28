@@ -2,6 +2,8 @@
 
 Welcome to Pennywise, your whimsical companion in the world of penny stocks! 🤡 Explore, discover, and keep an eye on those elusive penny stocks with ease and a touch of playfulness.
 
+Deployed on Vercel: https://pennywise-two.vercel.app/
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://gitHub.com/eshan-b/pennywise/graphs/commit-activity)
 
 <img src=".github/screenshots/home_page.png">
