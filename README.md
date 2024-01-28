@@ -33,6 +33,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-Special thanks to the organizers and participants of Tamuhack for creating an inspiring environment that sparked the magic behind Pennywise. 🚀
+Special thanks to the organizers and participants of TamuHack for creating an inspiring environment that sparked the magic behind Pennywise. 🚀
 
 Participating in Tamuhack was an enchanting experience that fueled the creativity and innovation woven into every line of code in this app.
