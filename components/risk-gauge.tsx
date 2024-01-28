@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 
 // Components
-import { SimpleGauge } from "react-gauges";
+import GaugeChart from "react-gauge-chart";
 import RiskCard from "./risk-card";
 
 const RiskScoreGauge = (financialData: any) => {
@@ -31,11 +31,7 @@ const RiskScoreGauge = (financialData: any) => {
     <>
       <div className="flex justify-center mb-4">
         <div className="w-1/2">
-          <SimpleGauge
-            value={Number(riskScore.toFixed(2))}
-            barColor="#DA365F"
-            indicatorColor="#E36C89"
-          />
+          <GaugeChart nrOfLevels={20} percent={riskScore / 100} />
         </div>
       </div>
 
